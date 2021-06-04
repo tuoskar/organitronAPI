@@ -25,7 +25,7 @@ SECRET_KEY = 'o7mi9a!9p*9coemta493c5#hpa$07rw*z%(xe#7r1$142u!n2z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['organitron3000-api-drf.herokuapp.com']
 
 
 # Application definition
